@@ -1,11 +1,11 @@
-##AirBnB clone - The console
+## AirBnB clone - The console
 
-###Project Description 
+### Project Description 
 The AirBnB clone project is aimed at deploying on our server a simple copy of the [AirBnB](https://www.airbnb.com) website.
 
 For the first part of this project, we are going to create a console using python cmd module to work on the backend. 
 
-###Command Line Description 
+### Command Line Description 
 The interface of the application is just like the Bash shell except that it has a limited number of accepted commands that were solely defined for the purposes of the usage of the AirBnB website.
 
 This command line interpreter serves as the frontend of the web app where users can interact with the backend which was developed with python OOP programming.
@@ -24,12 +24,12 @@ And as part of the implementation of the command line interpreter coupled with t
 -   Updating attributes of an object
 -   Destroying an object  
 
-###How to start it
+### How to start it
 Run the command below to start
 ```
 $ ./console
 ```
-###How to use it with example
+### How to use it with example
 1. Interactive mode:
 ```
 $ ./console.py
