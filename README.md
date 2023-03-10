@@ -68,5 +68,5 @@ $
 ```
 
 ### AUTHORS
-Mobola Falomo
-ODODO Eseoghene
+1. FALOMO Mobola
+2. ODODO Eseoghene
