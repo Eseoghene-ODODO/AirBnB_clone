@@ -66,3 +66,7 @@ EOF  help  quit
 (hbnb) 
 $
 ```
+
+### AUTHORS
+Mobola Falomo
+ODODO Eseoghene
