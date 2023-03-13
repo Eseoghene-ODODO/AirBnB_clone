@@ -1,4 +1,4 @@
-## AirBnB clone - The console
+## AirBnB clone part 1 - The console
 
 ### Project Description 
 The AirBnB clone project is aimed at deploying on our server a simple copy of the [AirBnB](https://www.airbnb.com) website.
